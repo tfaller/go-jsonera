@@ -23,7 +23,7 @@ for _, c := range changes {
 raw, _ := json.Marshal(eraDoc)
 // TODO: save raw somewhere ...
 ```
-The printes results:
+The printed results:
 ```
 "/a",1,ChangeUpdate
 "/b/2",1,ChangeDelete
